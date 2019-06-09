@@ -1,0 +1,12 @@
+@import "./reset.css";
+@import "./font/iconfont.css";
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: lightcoral;
+    /* background-image: url('../common/325702.jpg'); */
+    background-size: cover;
+}
+h3{
+    color: #fff; 
+}
